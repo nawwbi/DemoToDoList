@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo To Do List</string>
+    <string name="textView">To Do List</string>
+</resources>
